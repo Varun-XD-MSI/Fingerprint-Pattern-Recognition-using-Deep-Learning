@@ -94,6 +94,8 @@ A Streamlit-based interface allows users to:
 * Get predicted pattern instantly
 * View prediction confidence
 
+https://gwenn-chordamesodermal-crissy.ngrok-free.dev/
+
 ---
 
 ## ▶️ How to Run
